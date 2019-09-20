@@ -8,7 +8,7 @@ public class Text {
 		} catch (Exception e) {
 			System.out.println("afterThrowing");
 		}finally {
-			System.out.println("afterqqq");
+			System.out.println("afterqqq11");
 		}
 	}
 }
